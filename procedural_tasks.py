@@ -56,3 +56,4 @@ if __name__ == "__main__":
     list_tasks()
 
     save_tasks_to_file()
+    print("Finished")
